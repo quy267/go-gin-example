@@ -1,2 +1,2 @@
 # go-gin-example
-A repository examples for Gin.
+This repository contains examples demonstrating various use cases of [Gin](https://github.com/gin-gonic/gin).
